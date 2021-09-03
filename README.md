@@ -11,6 +11,9 @@ In this project, our aim is to classify the snapshots taken from the camera serv
 - PYTHON 3.6.9
 - RABBİT MQ
 ---------------------
+### RabbitMQ 
+👉🏻 https://www.rabbitmq.com
+
 ### Cifar10 Dataset
 👉🏻 http://www.cs.toronto.edu/~kriz/cifar.html
 
