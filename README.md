@@ -6,7 +6,7 @@ We have images of 10 different classes. We want to classify these pictures into 
 ### WHAT DO WE NEED?
 When an image comes in I need to find out which category it falls into from 10 different classes.
 ### WHAT AM I USING FOR THIS?
-I am using the Cifar10 Dataset
+I am using the Cifar10 Dataset. 
 Cifar10 Dataset: http://www.cs.toronto.edu/~kriz/cifar.html
 ### HOW DID WE APPROACH THIS PROBLEM?
 We acted as if we had a camera presenter who was constantly taking images. We have addressed the problem of classifying these snapshots in 10 different classes
