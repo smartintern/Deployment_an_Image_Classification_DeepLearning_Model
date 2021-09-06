@@ -38,7 +38,7 @@ I got the model for the Cifar10 dataset from the adjacent book. We used the Adam
 
 ---------------------
 
-## Running Model
+## Trained Model
 When the model.py file is run, it gives 88 percent accuracy for 50 iterations.
 ![Ekran görüntüsü 2021-08-30 080428 kırpılmış](https://user-images.githubusercontent.com/88366824/131934683-9fbe2021-6469-4f7a-af0a-cf423b48f273.png)
 
